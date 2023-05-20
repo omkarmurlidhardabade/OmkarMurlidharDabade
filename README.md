@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-     I am interested in **Data Science, Mathematics and Web development**
+   I am interested in **Data Science, Mathematics and Web development**
 
 - 🌱 I’m currently learning **Datascience and Machine Learning**
 
