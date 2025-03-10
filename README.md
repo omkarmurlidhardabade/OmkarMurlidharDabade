@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar Dabade </h1>
-     👀 I am interested in Data Analyst
+     👀 I am interested in MIS & Data Analyst
 
 - 🌱 I’m currently learning Data Analytics
 
